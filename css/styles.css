@@ -1,0 +1,47 @@
+.mainbody{
+    background-color: #E0EBE8;
+    text-align: center;
+    color: #4AB19A;
+    
+}
+.div1{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto 0 auto;
+}
+.mtn{
+    width: 600px;
+    height: 300px;
+    display: inline-block;
+    position: relative;
+    right: 150px;
+    margin: 0 auto 0 auto;
+}
+.heading{
+    position: fixed;
+    top: 0%;
+
+}
+.cloud1{
+    position: static;
+    margin: 150 auto 0 200;
+    
+    
+}
+.cloud2{
+    position: static;
+    margin: 20 200 0 auto;
+    float: right;
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+.heading-box{
+    height: 60px;
+    background-color:wheat;
+    position: fixed;
+    width: 320px;
+}
